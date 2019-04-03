@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
-},
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/gautamongit/my-project.git"
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/gautamongit/my-project/issues"
   },
-  "homepage": "https://github.com/gautamongit/my-project#readme"
+  "homepage": "https://github.com/gautamongit/my-project#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
